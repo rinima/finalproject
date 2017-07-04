@@ -1,5 +1,5 @@
 # finalproject
-![](images/1-1.jpg)
+![](iamges/1-1.jpg)
 ![](1-2.jpg) 
 ![](1-3.jpg)
 ![](1-4.jpg)
